@@ -5,9 +5,6 @@
 1. [Dependencies](#dependencies)
 2. [Project Motivation](#motivation)
 3. [Files Description](#description)
-4. [Results](#results)
-5. [Acknowledgements](#acknowledgements)
-
 
 ### Dependencies <a name = "dependencies"></a>
 
