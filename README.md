@@ -18,7 +18,7 @@ All the following libraries are needed to implement this project:
 
 ### Project Motivation <a name = "motivation"></a>
 
-Traffic related fatalities have reached a ten-year high and is rapidly increasing due to an increase in the number of miles driven by an average individual. This project is my attempt to design strategies that can help reduce traffic-related fatalities by analysing how they vary across different states to come up with the most sound policies.
+Traffic related fatalities have reached a ten-year high and is rapidly increasing due to an increase in the number of miles driven by an average individual. This project is my attempt to design strategies that can help reduce traffic-related fatalities by analysing how they vary across different states to come up with the most sound policies. PCA and K means Clustering are done to identify states that follow similar patterns to make targeted policies.
 
 
 ### Files Description <a name = "description"></a>
